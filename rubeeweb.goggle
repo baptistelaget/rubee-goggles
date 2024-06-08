@@ -15,3 +15,5 @@ $discard,site=facebook.com
 $discard,site=opentable.ca
 $discard,site=opentable.com
 $discard,site=resy.com
+$discard,site=tripadvisor.com
+$discard,site=canpages.ca
