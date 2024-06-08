@@ -1,4 +1,6 @@
 ! name: Rubee
+! description: Rubee custom Goggle
+! author: BL
 ! public: false
 
 $discard,site=linkedin.com
