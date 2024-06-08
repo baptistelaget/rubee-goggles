@@ -1,0 +1,15 @@
+! name: Rubee
+! public: false
+
+$discard,site=linkedin.com
+$discard,site=yelp.com
+$discard,site=yelp.ca
+$discard,site=restomontreal.ca
+$discard,site=restaurantguru.com
+$discard,site=yellowpages.ca
+$discard,site=tripadvisor.ca
+$discard,site=instagram.com
+$discard,site=facebook.com
+$discard,site=opentable.ca
+$discard,site=opentable.com
+$discard,site=resy.com
